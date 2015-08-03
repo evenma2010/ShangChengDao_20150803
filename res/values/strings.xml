@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">商城岛</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- login.xml -->
+    <string name="login_top_text">登陆</string>
+    <string name="login_find_password">找回密码</string>
+    <string name="login_register">免费注册</string>
+    <string name="login_username_tips">请输入帐号/手机号码</string>
+    <string name="login_username_text">帐号:</string>
+    <string name="login_password_tips">请输入密码</string>
+    <string name="login_password_text">密码:</string>
+    
+    <!-- register.xml -->
+    <string name="register_title">注册</string>
+    <string name="register_username_text">用户名:</string>
+    <string name="register_username_tips">请输入用户名</string>
+    <string name="register_password_text">密码:</string>
+    <string name="register_password_tips">请输入密码</string>
+    <string name="register_passwordconfirm_text">确认密码:</string>
+    <string name="register_passwordconfirm_tips">请再次输入密码</string>
+    <string name="register_phone_text">手机:</string>
+    <string name="register_phone_tips">请输入您的手机号码</string>
+    <string name="register_verification_text">验证码:</string>
+    <string name="register_verification_tips"></string>
+    <string name="register_verification_send">发送验证码</string>
+    
+    <!-- find_password.xml -->
+    <string name="findpass_title">找回密码</string>
+    <string name="findpass_phone_text">手机:</string>
+    <string name="findpass_phone_tips">请输入您的手机号码</string>
+    <string name="findpass_message">短信验证码:</string>
+    <string name="findpass_message_text">发送验证码</string>
+    <string name="findpass_nextstep">下一步</string>
+    
+    <!-- reset_password.xml -->
+    <string name="resetpass_title">重置密码</string>
+    <string name="resetpass_new_pass">新的登陆密码:</string>
+    <string name="resetpass_confirm_pass">再次输入密码:</string>
+    <string name="resetpass_submit">提交</string>
+
+</resources>
